@@ -1,0 +1,4 @@
+# Generated Files
+*.json
+test.py
+*.pickle
