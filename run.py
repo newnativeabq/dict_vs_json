@@ -18,11 +18,11 @@ def export_data(dataframe):
 
 if __name__ == "__main__":
     count = 0
-    max_level_size = 500000
+    max_level_size = 20000
     min_level_size = 5000
     level_step = 5000
 
-    max_nest_size = 5
+    max_nest_size = 3
     min_nest_size = 1
     nest_step = 1
 
